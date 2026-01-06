@@ -138,4 +138,9 @@ main .accordionItem .answer.open {
     padding-top: 8px;
     padding-bottom: 18px;
   }
+}
+
+.attribution {
+  display: flex;
+  justify-content: center;
 }/*# sourceMappingURL=style.css.map */
